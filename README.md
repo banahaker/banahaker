@@ -7,7 +7,7 @@
 - 🔭 &nbsp; I’m currently learning Golang, Vue and Flutter 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Full Stack Developer?.
-- 🔭 I’m currently working on Macuty
+- 🔭 I’m currently working on Macuty and Lipoic
 - 🤔 I’m looking for help with the answer of life
 - 💬 Ask me about ... don't ask me anything
 <h3>🛠 Tech Stack</h3>
