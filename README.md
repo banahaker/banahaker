@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Golang, Vue and Flutter 
+- 🔭 &nbsp; I’m currently learning golang, rsut
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Full Stack Developer?.
 - 🔭 I’m currently working on Macuty and Lipoic
