@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JS/TS | Python | Golang | C/C++ | 
-- 🌐 &nbsp; HTML | CSS | JavaScript |
+- 🌐 &nbsp; HTML | CSS | JavaScript | Vue | React | Svelte | React Native |
 - 🛢 &nbsp; MySQL | Firebase | MongoDB |
 - 🔧 &nbsp;  Visual Studio code | Git |
 - 🖥 &nbsp; Adobe Xd | Figma | Photoshop | 
